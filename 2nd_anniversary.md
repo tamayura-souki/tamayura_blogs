@@ -9,8 +9,9 @@
    - [壁紙2](https://www.pixiv.net/artworks/88681160)
    - [zipファイル](https://tamayura-souki.booth.pm/items/2844281)
 
-1. 2周年記念「めでたい」スタンプ作成
-   - スタンプ、zip配布
+1. 「めでたい」スタンプ作成・スタンプ画像zip配布
+   - [そうきちゃんスタンプ配布元](https://tamayura-web.netlify.app/content/Stamps)
+   - [そうきちゃんスタンプBooth版(.zip)](https://tamayura-souki.booth.pm/items/2845876)
 
 1. チャンネルURL変更
 
