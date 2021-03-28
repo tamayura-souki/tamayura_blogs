@@ -16,8 +16,6 @@
 
 1. [youtube カスタムURL](https://www.youtube.com/c/tamayurasouki)設定
 
-1. そうきちゃんを生成する学習済みDCGANモデル配布
-
 1. そうきちゃんのこれまでのツイートをすべてまとめたファイル配布
 
 1. [webサイト](https://tamayura-web.netlify.app/)更新
