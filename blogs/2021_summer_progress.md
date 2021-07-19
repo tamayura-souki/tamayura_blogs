@@ -9,3 +9,11 @@
   - https://twitter.com/tamayurasouki/status/1416666023990755328
 - doc
   - lex, yacc関連
+
+# 7月19日 月
+- fpga いじいじ
+- input
+  - 創作系AIのお話軽く
+- doc
+  - lex, yacc関連 done
+- ゲーム配信のサムネを作った
